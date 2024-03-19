@@ -1,15 +1,3 @@
-// const express = require('express');
-// const app = express();
-// const insectRoutes = require('./backend/routes/insects');
-// //const insectRoutes = require('./backend/routes/insects');
-
-// app.use(express.json());
-
-// app.use('/insects', insectRoutes);
-
-// app.listen(3001, () => {
-//   console.log('Server is running on port 3001');
-// });
 
 
 const express = require('express');
